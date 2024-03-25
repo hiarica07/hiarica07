@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Halil Arıca, Front-End Developer :computer: 
+  I'm Halil Arıca, FullStack Developer :computer: 
   </br>
   <div>
   <a href="www.google.com" target="_blank">
@@ -39,9 +39,8 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://halil.cw.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
-  <a href="mailto:halil.@clarusway.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="https://www.linkedin.com/in/halil.y/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
+  <a href="mailto:halilarica@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
+  <a href="www.linkedin.com/in/halilarica" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 
 <p align="right">
